@@ -4,4 +4,4 @@ This is a version of Wombat (vimscript #1778) by Lars Nielsen that also works on
 
 A customized version is also available, with additional highlighting groups for diff mode and search.
 
-Simply copy the wombat256mod.vim file into the ~/.vim/colors directory (create directory if it does not exist).
+Put the script into your Vim 'colors' directory (e.g. ~/.vim/colors), and load it with the command :colorscheme wombat256 or :colorscheme wombat256mod
